@@ -1,5 +1,7 @@
 Driver_Motion_With_CNN
 ----------------
+![image](https://github.com/user-attachments/assets/c2169c46-e61a-46a6-90ed-d29b35d0e6cf)
+
 운전 중 발생할 수 있는 다양한 행동을 실시간으로 인식하고 분류하는 시스템을 구현한 코드입니다.
 
 TensorFlow 데이터셋을 생성하고, 커스텀 CNN 아키텍처를 설계하여 입력 데이터에 대해 동작 인식 모델을 학습하도록 설계하였습니다.
@@ -45,3 +47,7 @@ TensorFlow 데이터셋을 생성하고, 커스텀 CNN 아키텍처를 설계하
 ● tf.data API : Tensorflow 데이터셋 생성 및 배치 처리에 사용
 
 ● Data Augmentation : 랜덤 회전 , 수평 플립 , 대비 조정 등을 사용하여 데이터 증강
+
+프로젝트 전체 과정
+---
+![image](https://github.com/user-attachments/assets/ff7ea055-d6dd-45dd-98ec-9cd3667e857e)
